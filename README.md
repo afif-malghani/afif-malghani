@@ -57,7 +57,7 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
 
 <h2>⚙ Skill Proficiency (Self-Rated)</h2>
 
-<img src="ML.cvg" width="100" alt="Machine Learning 85%">
+<img src="ML.svg" width="100" alt="Machine Learning 85%">
 
 ---
 
