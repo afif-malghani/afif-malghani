@@ -57,6 +57,8 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
 
 <h2>⚙ Skill Proficiency (Self-Rated)</h2>
 
+![Machine Learning](https://progress-bar.dev/85/?title=Machine%20Learning&color=00bfa6&width=180&suffix=%25&style=flat)
+
 <table>
   <tr>
     <td align="center">
