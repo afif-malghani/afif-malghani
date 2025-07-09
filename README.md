@@ -24,23 +24,23 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
 <table>
   <tr>
     <td><strong>Machine Learning</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,keras,opencv"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,keras,opencv,anaconda,elasticsearch"/></td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=django,fastapi,nodejs,postman"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,postman,dotnet,mysql,php,solidity"/></td>
   </tr>
   <tr>
-    <td><strong>Mobile & Edge</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=swift,xcode"/></td>
+    <td><strong>Mobile, Desktop & Edge</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=android,java,androidstudio,arduino,electron"/></td>
   </tr>
   <tr>
     <td><strong>DevOps & Infra</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,githubactions,git,rabbitmq,sentry"/></td>
   </tr>
   <tr>
     <td><strong>Frontend (light)</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,tailwind,htmx,react"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,htmx,css,js,jquery,tailwind,htmx,react,codepen"/></td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
@@ -48,7 +48,7 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
   </tr>
   <tr>
     <td><strong>Tools & IDEs</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,bash,notion"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vim,vscode,pycharm,bash,notion"/></td>
   </tr>
 </table>
 
