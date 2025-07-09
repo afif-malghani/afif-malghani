@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="100" version="1.1" width="100" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs />
+  <circle cx="50" cy="50" fill="none" r="40" stroke="#44ff44" stroke-dasharray="251.328" stroke-dashoffset="75.09759999999999" stroke-width="10" stroke-linecap="round" transform="rotate(-90 50 50)" />
+  <text alignment-baseline="middle" fill="#333" font-size="12px" text-anchor="middle" x="50%" y="50%">
+    <tspan x="50%" dy="-0.3em">Machine</tspan>
+    <tspan x="50%" dy="1.2em">Learning</tspan>
+  </text>
+</svg>
