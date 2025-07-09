@@ -32,7 +32,7 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
   </tr>
   <tr>
     <td><strong>Mobile, Desktop & Edge</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=android,java,androidstudio,arduino,electron"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=java,androidstudio,arduino,electron"/></td>
   </tr>
   <tr>
     <td><strong>DevOps & Infra</strong></td>
