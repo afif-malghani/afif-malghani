@@ -24,7 +24,7 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
 <table>
   <tr>
     <td><strong>Machine Learning</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,keras,opencv,anaconda,elasticsearch"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,anaconda,elasticsearch"/></td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
