@@ -57,54 +57,14 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
 
 ## ⚙️ Skill Proficiency (Self-Rated)
 
-<table>
-  <tr>
-    <td align="center"><strong>Machine Learning</strong></td>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center"><strong>Mobile & Edge</strong></td>
-    <td align="center"><strong>DevOps</strong></td>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><strong>Databases</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <svg width="80" height="80">
-        <circle cx="40" cy="40" r="30" stroke="#00bfa6" stroke-width="8" fill="none" stroke-dasharray="188.5" stroke-dashoffset="28"/>
-        <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="16">85%</text>
-      </svg>
-    </td>
-    <td align="center">
-      <svg width="80" height="80">
-        <circle cx="40" cy="40" r="30" stroke="#ffd700" stroke-width="8" fill="none" stroke-dasharray="188.5" stroke-dashoffset="47"/>
-        <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="16">75%</text>
-      </svg>
-    </td>
-    <td align="center">
-      <svg width="80" height="80">
-        <circle cx="40" cy="40" r="30" stroke="#2196f3" stroke-width="8" fill="none" stroke-dasharray="188.5" stroke-dashoffset="66"/>
-        <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="16">65%</text>
-      </svg>
-    </td>
-    <td align="center">
-      <svg width="80" height="80">
-        <circle cx="40" cy="40" r="30" stroke="#ff5722" stroke-width="8" fill="none" stroke-dasharray="188.5" stroke-dashoffset="47"/>
-        <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="16">75%</text>
-      </svg>
-    </td>
-    <td align="center">
-      <svg width="80" height="80">
-        <circle cx="40" cy="40" r="30" stroke="#673ab7" stroke-width="8" fill="none" stroke-dasharray="188.5" stroke-dashoffset="85"/>
-        <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="16">55%</text>
-      </svg>
-    </td>
-    <td align="center">
-      <svg width="80" height="80">
-        <circle cx="40" cy="40" r="30" stroke="#4caf50" stroke-width="8" fill="none" stroke-dasharray="188.5" stroke-dashoffset="28"/>
-        <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="16">85%</text>
-      </svg>
-    </td>
-  </tr>
-</table>
+| Skill Category     | Proficiency |
+|--------------------|-------------|
+| 🧠 Machine Learning | ![85%](https://progress-bar.dev/85/?title=ML&width=200&color=00bfa6) |
+| 🔧 Backend          | ![75%](https://progress-bar.dev/75/?title=Backend&width=200&color=f9c846) |
+| 📱 Mobile & Edge    | ![65%](https://progress-bar.dev/65/?title=Mobile&width=200&color=3f51b5) |
+| 🛠️ DevOps          | ![75%](https://progress-bar.dev/75/?title=DevOps&width=200&color=ff5722) |
+| 🎨 Frontend         | ![55%](https://progress-bar.dev/55/?title=Frontend&width=200&color=9c27b0) |
+| 🗃️ Databases        | ![85%](https://progress-bar.dev/85/?title=Databases&width=200&color=4caf50) |
 
 
 ## 🧠 Currently Exploring
