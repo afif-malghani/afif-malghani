@@ -57,7 +57,7 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
 
 <h2>⚙ Skill Proficiency (Self-Rated)</h2>
 
-<img src="assets/ml-85.svg" width="100" alt="Machine Learning 85%">
+<img src="55.svg" width="100" alt="Machine Learning 85%">
 
 ![Machine Learning](https://progress-bar.dev/85/?title=Machine%20Learning&color=00bfa6&width=180&suffix=%25&style=flat)
 
