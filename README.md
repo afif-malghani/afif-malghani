@@ -55,23 +55,6 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/afifulhasnain">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=afifulhasnain&show_icons=true&locale=en&layout=compact&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afifulhasnain&show_icons=true&locale=en&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/afifulhasnain">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afifulhasnain&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
 ## 🧠 Currently Exploring
 
 - On-device and low-latency inference systems  
