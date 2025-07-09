@@ -24,19 +24,19 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
 <table>
   <tr>
     <td><strong>Machine Learning</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikit-learn,opencv,keras,huggingface"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,keras,opencv"/></td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=django,fastapi,nodejs,python,postman"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=django,fastapi,nodejs,postman"/></td>
   </tr>
   <tr>
     <td><strong>Mobile & Edge</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=swift,xcode,apple,raspberrypi"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=swift,xcode"/></td>
   </tr>
   <tr>
     <td><strong>DevOps & Infra</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,nginx,ubuntu"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git"/></td>
   </tr>
   <tr>
     <td><strong>Frontend (light)</strong></td>
@@ -44,13 +44,14 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase"/></td>
   </tr>
   <tr>
     <td><strong>Tools & IDEs</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,figma,notion,bash"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,bash,notion"/></td>
   </tr>
 </table>
+
 
 ---
 
