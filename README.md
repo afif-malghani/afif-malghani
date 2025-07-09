@@ -1,59 +1,67 @@
-# 👋 Hey, I'm Muhammad Afif Ul Hasnain
+<h1 align="center">👋 Hey, I'm Muhammad Afif Ul Hasnain</h1>
 
-🎯 **AI/ML Engineer | Backend Developer | Product Strategy Enthusiast**  
-💼 Bridging technology and impact through applied machine learning  
-📍 Based in Pakistan | Open to remote consulting & collaborations
+<p align="center">
+🎯 <strong>AI/ML Engineer · Backend Developer · Product Strategy Enthusiast</strong><br/>
+💼 Building intelligent systems with purpose and precision<br/>
+📍 Pakistan | 🌍 Remote-ready
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a machine learning engineer with a strong foundation in **natural language processing**, **healthcare AI**, and **full-stack product thinking**. My journey spans building intelligent systems, architecting backend infrastructure, and increasingly steering product decisions that align tech with real-world needs.
+I'm a machine learning engineer with expertise in **natural language processing**, **real-time AI applications**, and **backend architecture**. I bridge the gap between engineering and product thinking — shaping systems that are scalable, impactful, and elegantly simple.
 
-I believe in building **purpose-driven software** — systems that are lean, scalable, and human-centered.
+> I believe in building **lean, ethically sound, and purposeful AI systems** — especially where lives, decisions, or trust are involved.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## ⚙️ Tech & Tools
 
 ```
-💡 Machine Learning    | NLP · Vision · Transformers · TFLite · ONNX · Model Optimization  
-🛠️ Backend Development | Django · FastAPI · PostgreSQL · MySQL · REST APIs · Celery  
-📱 Mobile + Embedded   | iOS (camera & LiDAR) · Real-time inference · Edge deployment  
-🧪 DevOps & Tooling    | Docker · Linux · SonarQube · CI/CD · GitHub Actions  
-🌐 Web & UI (learning) | HTMX · Tailwind · React (exploring)  
+💡 AI/ML        | Transformers · TFLite · ONNX · Optimization  
+🛠️ Backend      | Django · FastAPI · PostgreSQL · MySQL · REST APIs · Celery  
+📱 Mobile/Edge  | iOS (camera/LiDAR) · Real-time inference  
+🔧 DevOps/Infra | Docker · Linux · SonarQube · CI/CD · GitHub Actions  
+🌐 Web (Light)  | HTMX · Tailwind CSS · React (learning)
 ```
 
-I'm also passionate about:
+---
 
-- 📈 Systems that make decisions under uncertainty (trading, inference, automation)  
-- 🔐 Data privacy and ethical application of AI  
-- 📦 Simplicity in design — less code, more clarity
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afifulhasnain&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifulhasnain&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Current Interests
 
-- On-device LLMs and latency-sensitive AI workflows  
-- Strategies for moving from engineering to product ownership  
-- Efficient, low-compute AI deployment in constrained environments
-
----
-
-## 🎯 Personal Notes
-
-- I’m analytical, product-minded, and minimalist at heart  
-- I value execution over hype, and questions over assumptions  
-- Outside work, I’m learning about **trading**, **nutrition**, and **how systems (both human and machine) really work**
+- 🧠 On-device LLMs & latency-aware design  
+- 📈 AI decision systems (finance, automation, inference)  
+- ⚖️ Ethical AI, privacy & secure architectures  
+- 🧩 Transitioning from engineering to product ownership
 
 ---
 
-## 📫 Reach Out
+## ✍️ Personal Notes
 
-- 📧 [Email](mailto:muhammad.afifulhasnain@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-afif-ul-hasnain/)
+- 💬 I'm curious, analytical, and minimal at heart  
+- ⚡ I love systems — both human and machine — and how they evolve  
+- 🍴 Gaining weight on a budget (yes, I track macros too)
 
 ---
 
-> _“Focus is saying no.”_ — Steve Jobs  
-> _“And also knowing what’s worth saying yes to.”_ — Me
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="mailto:muhammad.afifulhasnain@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/muhammad-afif-ul-hasnain/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+</p>
+
+---
+
+<p align="center"><em>“Focus is saying no.” – Steve Jobs</em><br/>
+<em>“And also knowing what’s worth saying yes to.” – Me</em></p>
