@@ -66,6 +66,13 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
 | 🎨 Frontend         | ![55%](https://progress-bar.dev/55/?title=Frontend&width=200&color=9c27b0) |
 | 🗃️ Databases        | ![85%](https://progress-bar.dev/85/?title=Databases&width=200&color=4caf50) |
 
+---------------------------
+|    ML Skill Rating      |
+|  🧠 PyTorch: 90%         |
+|  🧪 TFLite: 80%          |
+|  🤗 Transformers: 85%   |
+---------------------------
+
 
 ## 🧠 Currently Exploring
 
