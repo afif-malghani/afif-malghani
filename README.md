@@ -55,25 +55,66 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
 
 ---
 
-## ⚙️ Skill Proficiency (Self-Rated)
+<h2>⚙ Skill Proficiency (Self-Rated)</h2>
 
-| Skill Category     | Proficiency |
-|--------------------|-------------|
-| 🧠 Machine Learning | ![85%](https://progress-bar.dev/85/?title=ML&width=200&color=00bfa6) |
-| 🔧 Backend          | ![75%](https://progress-bar.dev/75/?title=Backend&width=200&color=f9c846) |
-| 📱 Mobile & Edge    | ![65%](https://progress-bar.dev/65/?title=Mobile&width=200&color=3f51b5) |
-| 🛠️ DevOps          | ![75%](https://progress-bar.dev/75/?title=DevOps&width=200&color=ff5722) |
-| 🎨 Frontend         | ![55%](https://progress-bar.dev/55/?title=Frontend&width=200&color=9c27b0) |
-| 🗃️ Databases        | ![85%](https://progress-bar.dev/85/?title=Databases&width=200&color=4caf50) |
-
----------------------------
-|    ML Skill Rating      |
-|  🧠 PyTorch: 90%         |
-|  🧪 TFLite: 80%          |
-|  🤗 Transformers: 85%   |
----------------------------
-
-
+<table>
+  <tr>
+    <td align="center">
+      <svg width="100" height="100">
+        <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none"/>
+        <circle cx="50" cy="50" r="40" stroke="#00bfa6" stroke-width="10" fill="none"
+                stroke-dasharray="251.2" stroke-dashoffset="37.68" transform="rotate(-90 50 50)" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18">85%</text>
+      </svg>
+      <br/><strong>Machine Learning</strong>
+    </td>
+    <td align="center">
+      <svg width="100" height="100">
+        <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none"/>
+        <circle cx="50" cy="50" r="40" stroke="#ffd700" stroke-width="10" fill="none"
+                stroke-dasharray="251.2" stroke-dashoffset="62.8" transform="rotate(-90 50 50)" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18">75%</text>
+      </svg>
+      <br/><strong>Backend</strong>
+    </td>
+    <td align="center">
+      <svg width="100" height="100">
+        <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none"/>
+        <circle cx="50" cy="50" r="40" stroke="#2196f3" stroke-width="10" fill="none"
+                stroke-dasharray="251.2" stroke-dashoffset="87.92" transform="rotate(-90 50 50)" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18">65%</text>
+      </svg>
+      <br/><strong>Mobile & Edge</strong>
+    </td>
+    <td align="center">
+      <svg width="100" height="100">
+        <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none"/>
+        <circle cx="50" cy="50" r="40" stroke="#ff5722" stroke-width="10" fill="none"
+                stroke-dasharray="251.2" stroke-dashoffset="62.8" transform="rotate(-90 50 50)" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18">75%</text>
+      </svg>
+            <br/><strong>DevOps</strong>
+    </td>
+    <td align="center">
+      <svg width="100" height="100">
+        <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none"/>
+        <circle cx="50" cy="50" r="40" stroke="#673ab7" stroke-width="10" fill="none"
+                stroke-dasharray="251.2" stroke-dashoffset="113.04" transform="rotate(-90 50 50)" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18">55%</text>
+      </svg>
+      <br/><strong>Frontend</strong>
+    </td>
+    <td align="center">
+      <svg width="100" height="100">
+        <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none"/>
+        <circle cx="50" cy="50" r="40" stroke="#4caf50" stroke-width="10" fill="none"
+                stroke-dasharray="251.2" stroke-dashoffset="37.68" transform="rotate(-90 50 50)" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18">85%</text>
+      </svg>
+      <br/><strong>Databases</strong>
+    </td>
+  </tr>
+</table>
 ## 🧠 Currently Exploring
 
 - On-device and low-latency inference systems  
