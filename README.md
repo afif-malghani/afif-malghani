@@ -57,68 +57,10 @@ I'm a machine learning engineer with a deep interest in **NLP**, **edge AI**, an
 
 <h2>⚙ Skill Proficiency (Self-Rated)</h2>
 
-<img src="55.svg" width="100" alt="Machine Learning 85%">
+<img src="ML.cvg" width="100" alt="Machine Learning 85%">
 
-![Machine Learning](https://progress-bar.dev/85/?title=Machine%20Learning&color=00bfa6&width=180&suffix=%25&style=flat)
+---
 
-<table>
-  <tr>
-    <td align="center">
-      <svg width="100" height="100">
-        <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none"/>
-        <circle cx="50" cy="50" r="40" stroke="#00bfa6" stroke-width="10" fill="none"
-                stroke-dasharray="251.2" stroke-dashoffset="37.68" transform="rotate(-90 50 50)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18">85%</text>
-      </svg>
-      <br/><strong>Machine Learning</strong>
-    </td>
-    <td align="center">
-      <svg width="100" height="100">
-        <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none"/>
-        <circle cx="50" cy="50" r="40" stroke="#ffd700" stroke-width="10" fill="none"
-                stroke-dasharray="251.2" stroke-dashoffset="62.8" transform="rotate(-90 50 50)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18">75%</text>
-      </svg>
-      <br/><strong>Backend</strong>
-    </td>
-    <td align="center">
-      <svg width="100" height="100">
-        <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none"/>
-        <circle cx="50" cy="50" r="40" stroke="#2196f3" stroke-width="10" fill="none"
-                stroke-dasharray="251.2" stroke-dashoffset="87.92" transform="rotate(-90 50 50)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18">65%</text>
-      </svg>
-      <br/><strong>Mobile & Edge</strong>
-    </td>
-    <td align="center">
-      <svg width="100" height="100">
-        <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none"/>
-        <circle cx="50" cy="50" r="40" stroke="#ff5722" stroke-width="10" fill="none"
-                stroke-dasharray="251.2" stroke-dashoffset="62.8" transform="rotate(-90 50 50)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18">75%</text>
-      </svg>
-            <br/><strong>DevOps</strong>
-    </td>
-    <td align="center">
-      <svg width="100" height="100">
-        <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none"/>
-        <circle cx="50" cy="50" r="40" stroke="#673ab7" stroke-width="10" fill="none"
-                stroke-dasharray="251.2" stroke-dashoffset="113.04" transform="rotate(-90 50 50)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18">55%</text>
-      </svg>
-      <br/><strong>Frontend</strong>
-    </td>
-    <td align="center">
-      <svg width="100" height="100">
-        <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none"/>
-        <circle cx="50" cy="50" r="40" stroke="#4caf50" stroke-width="10" fill="none"
-                stroke-dasharray="251.2" stroke-dashoffset="37.68" transform="rotate(-90 50 50)" />
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18">85%</text>
-      </svg>
-      <br/><strong>Databases</strong>
-    </td>
-  </tr>
-</table>
 ## 🧠 Currently Exploring
 
 - On-device and low-latency inference systems  
